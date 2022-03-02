@@ -1,10 +1,11 @@
 # SLAM_project
 ## Main function:
-This code loads sensors' data and generate map of robot.
+This code loads sensors' data, combined analysis readings from encoder, 2D lidar and FOG sensor, and generate map of surrounding environment of robot.
 ## Usage
 1. create "sensing_data" file </br>
-2. add sensors' data file to directory </br>
-3. run main.py
+2. change the parameter in map_init.py</br>
+3. add sensors' data file to directory </br>
+4. run main.py
 ## Sensing Data Usage:
 Encoder: 2 * n, left wheel, right wheel</br>
 FOG: 3 * n, delta angle in x, y, z</br>
