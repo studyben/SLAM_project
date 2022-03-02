@@ -3,7 +3,8 @@
 This code loads sensors' data and generate map of robot.
 ## Usage
 1. create "sensing_data" file </br>
-2. add data file to directory </br>
+2. add sensors' data file to directory </br>
+3. run main.py
 ## Sensing Data Usage:
 Encoder: 2 * n, left wheel, right wheel</br>
 FOG: 3 * n, delta angle in x, y, z</br>
