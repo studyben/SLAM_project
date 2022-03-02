@@ -1,0 +1,8 @@
+opencv-python == 4.2.0.34
+matplotlib >= 2.2
+numpy~=1.22.2
+pandas
+scipy
+scikit-image >= 0.14.0
+
+tqdm~=4.63.0
